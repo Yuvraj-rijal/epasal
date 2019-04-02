@@ -1,0 +1,6 @@
+venv
+design-files
+media
+db.sqlite3
+.idea
+__pycache__/
